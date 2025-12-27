@@ -47,8 +47,10 @@
 
 ## Output:
 ![alt text](517751542-9090b145-55c1-45ce-9a68-aef78e8de8d7.png)
-### Name: ABHISHEK S
-### Register Number: 25008757
+
+
+### Name: IYYAPPAN S
+### Register Number: 25014014
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
